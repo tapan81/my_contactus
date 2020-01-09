@@ -1,0 +1,14 @@
+{
+	"name": "tapanmandal81/tm81_contactform",
+	"description": "A contact form package for laravel",
+	"authors": [{
+		"name": "Tapan Mandal",
+		"email": "tapanm@spaatech.net"
+	}],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"tapanmandal81\\tm81_contactform\\": "src/"
+		}
+	}
+}
